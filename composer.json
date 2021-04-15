@@ -1,5 +1,5 @@
 {
-  "name": "torann/hashids",
+  "name": "curbngo/hashids",
   "description": "Laravel package for Hashids",
   "keywords": [
     "laravel",
